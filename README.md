@@ -1,4 +1,4 @@
-link to dscript - https://vexfile.com/download/qScMLUpmJe
+link to script - https://vexfile.com/download/qScMLUpmJe
 
 
 script version: v0.2 | 16/09/2024
